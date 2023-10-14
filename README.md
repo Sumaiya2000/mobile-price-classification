@@ -1,5 +1,4 @@
-**Mobile Price Classification using Machine Learning
-** : A project focused on predicting mobile phone price range based on specific features using machine learning classifiers.
+**Mobile Price Classification using Machine Learning** : A project focused on predicting mobile phone price range based on specific features using machine learning classifiers.
 
 **Key Features:**
 * Predictive Modeling:
